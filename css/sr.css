@@ -12,3 +12,8 @@ body>.container {
 .navbar-nav, .uppercase {
 	text-transform:uppercase;
 }
+
+.articles div {
+	height:330px;
+	overflow-y:hidden;
+}
