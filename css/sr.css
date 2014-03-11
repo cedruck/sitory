@@ -1,0 +1,14 @@
+body>.container {
+	width:1280px;
+	border:1px solid red;
+	font-size:0.9em;
+}
+
+#bandeautop {
+	background-image:url('../images/top.png');
+	height:214px;
+}
+
+.navbar-nav {
+	text-transform:uppercase;
+}
