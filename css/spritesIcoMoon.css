@@ -1,0 +1,1376 @@
+[class*="iconMoon-"] {
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	background-image: url(../fonts/spritesIcoMoon16.svg);
+	background-repeat: no-repeat;
+}
+.iconMoon-home {
+	background-position: 0 0;
+	width: 16px;
+}
+.iconMoon-home2 {
+	background-position: -32px 0;
+	width: 18px;
+}
+.iconMoon-home3 {
+	background-position: -66px 0;
+	width: 16px;
+}
+.iconMoon-office {
+	background-position: -98px 0;
+	width: 16px;
+}
+.iconMoon-newspaper {
+	background-position: -130px 0;
+	width: 17px;
+}
+.iconMoon-pencil {
+	background-position: -163px 0;
+	width: 16px;
+}
+.iconMoon-pencil2 {
+	background-position: -195px 0;
+	width: 16px;
+}
+.iconMoon-quill {
+	background-position: -227px 0;
+	width: 16px;
+}
+.iconMoon-pen {
+	background-position: -259px 0;
+	width: 16px;
+}
+.iconMoon-blog {
+	background-position: -291px 0;
+	width: 16px;
+}
+.iconMoon-droplet {
+	background-position: -323px 0;
+	width: 16px;
+}
+.iconMoon-paint-format {
+	background-position: -355px 0;
+	width: 18px;
+}
+.iconMoon-image {
+	background-position: -389px 0;
+	width: 20px;
+}
+.iconMoon-image2 {
+	background-position: -425px 0;
+	width: 16px;
+}
+.iconMoon-images {
+	background-position: -457px 0;
+	width: 18px;
+}
+.iconMoon-camera {
+	background-position: -491px 0;
+	width: 18px;
+}
+.iconMoon-music {
+	background-position: 0 -32px;
+}
+.iconMoon-headphones {
+	background-position: -32px -32px;
+}
+.iconMoon-play {
+	background-position: -66px -32px;
+}
+.iconMoon-film {
+	background-position: -98px -32px;
+}
+.iconMoon-camera2 {
+	background-position: -130px -32px;
+}
+.iconMoon-dice {
+	background-position: -163px -32px;
+}
+.iconMoon-pacman {
+	background-position: -195px -32px;
+}
+.iconMoon-spades {
+	background-position: -227px -32px;
+}
+.iconMoon-clubs {
+	background-position: -259px -32px;
+}
+.iconMoon-diamonds {
+	background-position: -291px -32px;
+}
+.iconMoon-pawn {
+	background-position: -323px -32px;
+}
+.iconMoon-bullhorn {
+	background-position: -355px -32px;
+}
+.iconMoon-connection {
+	background-position: -389px -32px;
+}
+.iconMoon-podcast {
+	background-position: -425px -32px;
+}
+.iconMoon-feed {
+	background-position: -457px -32px;
+}
+.iconMoon-book {
+	background-position: -491px -32px;
+}
+.iconMoon-books {
+	background-position: 0 -64px;
+}
+.iconMoon-library {
+	background-position: -32px -64px;
+}
+.iconMoon-file {
+	background-position: -66px -64px;
+}
+.iconMoon-profile {
+	background-position: -98px -64px;
+}
+.iconMoon-file2 {
+	background-position: -130px -64px;
+}
+.iconMoon-file3 {
+	background-position: -163px -64px;
+}
+.iconMoon-file4 {
+	background-position: -195px -64px;
+}
+.iconMoon-copy {
+	background-position: -227px -64px;
+}
+.iconMoon-copy2 {
+	background-position: -259px -64px;
+}
+.iconMoon-copy3 {
+	background-position: -291px -64px;
+}
+.iconMoon-paste {
+	background-position: -323px -64px;
+}
+.iconMoon-paste2 {
+	background-position: -355px -64px;
+}
+.iconMoon-paste3 {
+	background-position: -389px -64px;
+}
+.iconMoon-stack {
+	background-position: -425px -64px;
+}
+.iconMoon-folder {
+	background-position: -457px -64px;
+}
+.iconMoon-folder-open {
+	background-position: -491px -64px;
+}
+.iconMoon-tag {
+	background-position: 0 -96px;
+}
+.iconMoon-tags {
+	background-position: -32px -96px;
+}
+.iconMoon-barcode {
+	background-position: -66px -96px;
+}
+.iconMoon-qrcode {
+	background-position: -98px -96px;
+}
+.iconMoon-ticket {
+	background-position: -130px -96px;
+}
+.iconMoon-cart {
+	background-position: -163px -96px;
+}
+.iconMoon-cart2 {
+	background-position: -195px -96px;
+}
+.iconMoon-cart3 {
+	background-position: -227px -96px;
+}
+.iconMoon-coin {
+	background-position: -259px -96px;
+}
+.iconMoon-credit {
+	background-position: -291px -96px;
+}
+.iconMoon-calculate {
+	background-position: -323px -96px;
+}
+.iconMoon-support {
+	background-position: -355px -96px;
+}
+.iconMoon-phone {
+	background-position: -389px -96px;
+}
+.iconMoon-phone-hang-up {
+	background-position: -425px -96px;
+}
+.iconMoon-address-book {
+	background-position: -457px -96px;
+}
+.iconMoon-notebook {
+	background-position: -491px -96px;
+}
+.iconMoon-envelope {
+	background-position: 0 -128px;
+}
+.iconMoon-pushpin {
+	background-position: -32px -128px;
+}
+.iconMoon-location {
+	background-position: -66px -128px;
+}
+.iconMoon-location2 {
+	background-position: -98px -128px;
+}
+.iconMoon-compass {
+	background-position: -130px -128px;
+}
+.iconMoon-map {
+	background-position: -163px -128px;
+}
+.iconMoon-map2 {
+	background-position: -195px -128px;
+}
+.iconMoon-history {
+	background-position: -227px -128px;
+}
+.iconMoon-clock {
+	background-position: -259px -128px;
+}
+.iconMoon-clock2 {
+	background-position: -291px -128px;
+}
+.iconMoon-alarm {
+	background-position: -323px -128px;
+}
+.iconMoon-alarm2 {
+	background-position: -355px -128px;
+}
+.iconMoon-bell {
+	background-position: -389px -128px;
+}
+.iconMoon-stopwatch {
+	background-position: -425px -128px;
+}
+.iconMoon-calendar {
+	background-position: -457px -128px;
+}
+.iconMoon-calendar2 {
+	background-position: -491px -128px;
+}
+.iconMoon-print {
+	background-position: 0 -160px;
+}
+.iconMoon-keyboard {
+	background-position: -32px -160px;
+}
+.iconMoon-screen {
+	background-position: -66px -160px;
+}
+.iconMoon-laptop {
+	background-position: -98px -160px;
+}
+.iconMoon-mobile {
+	background-position: -130px -160px;
+}
+.iconMoon-mobile2 {
+	background-position: -163px -160px;
+}
+.iconMoon-tablet {
+	background-position: -195px -160px;
+}
+.iconMoon-tv {
+	background-position: -227px -160px;
+}
+.iconMoon-cabinet {
+	background-position: -259px -160px;
+}
+.iconMoon-drawer {
+	background-position: -291px -160px;
+}
+.iconMoon-drawer2 {
+	background-position: -323px -160px;
+}
+.iconMoon-drawer3 {
+	background-position: -355px -160px;
+}
+.iconMoon-box-add {
+	background-position: -389px -160px;
+}
+.iconMoon-box-remove {
+	background-position: -425px -160px;
+}
+.iconMoon-download {
+	background-position: -457px -160px;
+}
+.iconMoon-upload {
+	background-position: -491px -160px;
+}
+.iconMoon-disk {
+	background-position: 0 -192px;
+}
+.iconMoon-storage {
+	background-position: -32px -192px;
+}
+.iconMoon-undo {
+	background-position: -66px -192px;
+}
+.iconMoon-redo {
+	background-position: -98px -192px;
+}
+.iconMoon-flip {
+	background-position: -130px -192px;
+}
+.iconMoon-flip2 {
+	background-position: -163px -192px;
+}
+.iconMoon-undo2 {
+	background-position: -195px -192px;
+}
+.iconMoon-redo2 {
+	background-position: -227px -192px;
+}
+.iconMoon-forward {
+	background-position: -259px -192px;
+}
+.iconMoon-reply {
+	background-position: -291px -192px;
+}
+.iconMoon-bubble {
+	background-position: -323px -192px;
+}
+.iconMoon-bubbles {
+	background-position: -355px -192px;
+}
+.iconMoon-bubbles2 {
+	background-position: -389px -192px;
+}
+.iconMoon-bubble2 {
+	background-position: -425px -192px;
+}
+.iconMoon-bubbles3 {
+	background-position: -457px -192px;
+}
+.iconMoon-bubbles4 {
+	background-position: -491px -192px;
+}
+.iconMoon-user {
+	background-position: 0 -224px;
+}
+.iconMoon-users {
+	background-position: -32px -224px;
+}
+.iconMoon-user2 {
+	background-position: -66px -224px;
+}
+.iconMoon-users2 {
+	background-position: -98px -224px;
+}
+.iconMoon-user3 {
+	background-position: -130px -224px;
+}
+.iconMoon-user4 {
+	background-position: -163px -224px;
+}
+.iconMoon-quotes-left {
+	background-position: -195px -224px;
+}
+.iconMoon-busy {
+	background-position: -227px -224px;
+}
+.iconMoon-spinner {
+	background-position: -259px -224px;
+}
+.iconMoon-spinner2 {
+	background-position: -291px -224px;
+}
+.iconMoon-spinner3 {
+	background-position: -323px -224px;
+}
+.iconMoon-spinner4 {
+	background-position: -355px -224px;
+}
+.iconMoon-spinner5 {
+	background-position: -389px -224px;
+}
+.iconMoon-spinner6 {
+	background-position: -425px -224px;
+}
+.iconMoon-binoculars {
+	background-position: -457px -224px;
+}
+.iconMoon-search {
+	background-position: -491px -224px;
+}
+.iconMoon-zoom in {
+	background-position: 0 -256px;
+}
+.iconMoon-zoom out {
+	background-position: -32px -256px;
+}
+.iconMoon-expand {
+	background-position: -66px -256px;
+}
+.iconMoon-contract {
+	background-position: -98px -256px;
+}
+.iconMoon-expand2 {
+	background-position: -130px -256px;
+}
+.iconMoon-contract2 {
+	background-position: -163px -256px;
+}
+.iconMoon-key {
+	background-position: -195px -256px;
+}
+.iconMoon-key2 {
+	background-position: -227px -256px;
+}
+.iconMoon-lock {
+	background-position: -259px -256px;
+}
+.iconMoon-lock2 {
+	background-position: -291px -256px;
+}
+.iconMoon-unlocked {
+	background-position: -323px -256px;
+}
+.iconMoon-wrench {
+	background-position: -355px -256px;
+}
+.iconMoon-settings {
+	background-position: -389px -256px;
+}
+.iconMoon-equalizer {
+	background-position: -425px -256px;
+}
+.iconMoon-cog {
+	background-position: -457px -256px;
+}
+.iconMoon-cogs {
+	background-position: -491px -256px;
+}
+.iconMoon-cog2 {
+	background-position: 0 -288px;
+}
+.iconMoon-hammer {
+	background-position: -32px -288px;
+}
+.iconMoon-wand {
+	background-position: -66px -288px;
+}
+.iconMoon-aid {
+	background-position: -98px -288px;
+}
+.iconMoon-bug {
+	background-position: -130px -288px;
+}
+.iconMoon-pie {
+	background-position: -163px -288px;
+}
+.iconMoon-stats {
+	background-position: -195px -288px;
+}
+.iconMoon-bars {
+	background-position: -227px -288px;
+}
+.iconMoon-bars2 {
+	background-position: -259px -288px;
+}
+.iconMoon-gift {
+	background-position: -291px -288px;
+}
+.iconMoon-trophy {
+	background-position: -323px -288px;
+}
+.iconMoon-glass {
+	background-position: -355px -288px;
+}
+.iconMoon-mug {
+	background-position: -389px -288px;
+}
+.iconMoon-food {
+	background-position: -425px -288px;
+}
+.iconMoon-leaf {
+	background-position: -457px -288px;
+}
+.iconMoon-rocket {
+	background-position: -491px -288px;
+}
+.iconMoon-meter {
+	background-position: 0 -320px;
+}
+.iconMoon-meter2 {
+	background-position: -32px -320px;
+}
+.iconMoon-dashboard {
+	background-position: -66px -320px;
+}
+.iconMoon-hammer2 {
+	background-position: -98px -320px;
+}
+.iconMoon-fire {
+	background-position: -130px -320px;
+}
+.iconMoon-lab {
+	background-position: -163px -320px;
+}
+.iconMoon-magnet {
+	background-position: -195px -320px;
+}
+.iconMoon-remove {
+	background-position: -227px -320px;
+}
+.iconMoon-remove2 {
+	background-position: -259px -320px;
+}
+.iconMoon-briefcase {
+	background-position: -291px -320px;
+}
+.iconMoon-airplane {
+	background-position: -323px -320px;
+}
+.iconMoon-truck {
+	background-position: -355px -320px;
+}
+.iconMoon-road {
+	background-position: -389px -320px;
+}
+.iconMoon-accessibility {
+	background-position: -425px -320px;
+}
+.iconMoon-target {
+	background-position: -457px -320px;
+}
+.iconMoon-shield {
+	background-position: -491px -320px;
+}
+.iconMoon-lightning {
+	background-position: 0 -352px;
+}
+.iconMoon-switch {
+	background-position: -32px -352px;
+}
+.iconMoon-power cord {
+	background-position: -66px -352px;
+}
+.iconMoon-signup {
+	background-position: -98px -352px;
+}
+.iconMoon-list {
+	background-position: -130px -352px;
+}
+.iconMoon-list2 {
+	background-position: -163px -352px;
+}
+.iconMoon-numbered-list {
+	background-position: -195px -352px;
+}
+.iconMoon-menu {
+	background-position: -227px -352px;
+}
+.iconMoon-menu2 {
+	background-position: -259px -352px;
+}
+.iconMoon-tree {
+	background-position: -291px -352px;
+}
+.iconMoon-cloud {
+	background-position: -323px -352px;
+}
+.iconMoon-cloud-download {
+	background-position: -355px -352px;
+}
+.iconMoon-cloud-upload {
+	background-position: -389px -352px;
+}
+.iconMoon-download2 {
+	background-position: -425px -352px;
+}
+.iconMoon-upload2 {
+	background-position: -457px -352px;
+}
+.iconMoon-download3 {
+	background-position: -491px -352px;
+}
+.iconMoon-upload3 {
+	background-position: 0 -384px;
+}
+.iconMoon-globe {
+	background-position: -32px -384px;
+}
+.iconMoon-earth {
+	background-position: -66px -384px;
+}
+.iconMoon-link {
+	background-position: -98px -384px;
+}
+.iconMoon-flag {
+	background-position: -130px -384px;
+}
+.iconMoon-attachment {
+	background-position: -163px -384px;
+}
+.iconMoon-eye {
+	background-position: -195px -384px;
+}
+.iconMoon-eye-blocked {
+	background-position: -227px -384px;
+}
+.iconMoon-eye2 {
+	background-position: -259px -384px;
+}
+.iconMoon-bookmark {
+	background-position: -291px -384px;
+}
+.iconMoon-bookmarks {
+	background-position: -323px -384px;
+}
+.iconMoon-brightness-medium {
+	background-position: -355px -384px;
+}
+.iconMoon-brightness-contrast {
+	background-position: -389px -384px;
+}
+.iconMoon-contrast {
+	background-position: -425px -384px;
+}
+.iconMoon-star {
+	background-position: -457px -384px;
+}
+.iconMoon-star2 {
+	background-position: -491px -384px;
+}
+.iconMoon-star3 {
+	background-position: 0 -416px;
+}
+.iconMoon-heart {
+	background-position: -32px -416px;
+}
+.iconMoon-heart2 {
+	background-position: -66px -416px;
+}
+.iconMoon-heart-broken {
+	background-position: -98px -416px;
+}
+.iconMoon-thumbs-up {
+	background-position: -130px -416px;
+}
+.iconMoon-thumbs-up2 {
+	background-position: -163px -416px;
+}
+.iconMoon-happy {
+	background-position: -195px -416px;
+}
+.iconMoon-happy2 {
+	background-position: -227px -416px;
+}
+.iconMoon-smiley {
+	background-position: -259px -416px;
+}
+.iconMoon-smiley2 {
+	background-position: -291px -416px;
+}
+.iconMoon-tongue {
+	background-position: -323px -416px;
+}
+.iconMoon-tongue2 {
+	background-position: -355px -416px;
+}
+.iconMoon-sad {
+	background-position: -389px -416px;
+}
+.iconMoon-sad2 {
+	background-position: -425px -416px;
+}
+.iconMoon-wink {
+	background-position: -457px -416px;
+}
+.iconMoon-wink2 {
+	background-position: -491px -416px;
+}
+.iconMoon-grin {
+	background-position: 0 -448px;
+}
+.iconMoon-grin2 {
+	background-position: -32px -448px;
+}
+.iconMoon-cool {
+	background-position: -66px -448px;
+}
+.iconMoon-cool2 {
+	background-position: -98px -448px;
+}
+.iconMoon-angry {
+	background-position: -130px -448px;
+}
+.iconMoon-angry2 {
+	background-position: -163px -448px;
+}
+.iconMoon-evil {
+	background-position: -195px -448px;
+}
+.iconMoon-evil2 {
+	background-position: -227px -448px;
+}
+.iconMoon-shocked {
+	background-position: -259px -448px;
+}
+.iconMoon-shocked2 {
+	background-position: -291px -448px;
+}
+.iconMoon-confused {
+	background-position: -323px -448px;
+}
+.iconMoon-confused2 {
+	background-position: -355px -448px;
+}
+.iconMoon-neutral {
+	background-position: -389px -448px;
+}
+.iconMoon-neutral2 {
+	background-position: -425px -448px;
+}
+.iconMoon-wondering {
+	background-position: -457px -448px;
+}
+.iconMoon-wondering2 {
+	background-position: -491px -448px;
+}
+.iconMoon-point-up {
+	background-position: 0 -480px;
+}
+.iconMoon-point-right {
+	background-position: -32px -480px;
+}
+.iconMoon-point-down {
+	background-position: -66px -480px;
+}
+.iconMoon-point-left {
+	background-position: -98px -480px;
+}
+.iconMoon-warning {
+	background-position: -130px -480px;
+}
+.iconMoon-notification {
+	background-position: -163px -480px;
+}
+.iconMoon-question {
+	background-position: -195px -480px;
+}
+.iconMoon-info {
+	background-position: -227px -480px;
+}
+.iconMoon-info2 {
+	background-position: -259px -480px;
+}
+.iconMoon-blocked {
+	background-position: -291px -480px;
+}
+.iconMoon-cancel-circle {
+	background-position: -323px -480px;
+}
+.iconMoon-checkmark-circle {
+	background-position: -355px -480px;
+}
+.iconMoon-spam {
+	background-position: -389px -480px;
+}
+.iconMoon-close {
+	background-position: -425px -480px;
+}
+.iconMoon-checkmark {
+	background-position: -457px -480px;
+}
+.iconMoon-checkmark2 {
+	background-position: -491px -480px;
+}
+.iconMoon-spell-check {
+	background-position: 0 -512px;
+}
+.iconMoon-minus {
+	background-position: -32px -512px;
+}
+.iconMoon-plus {
+	background-position: -66px -512px;
+}
+.iconMoon-enter {
+	background-position: -98px -512px;
+}
+.iconMoon-exit {
+	background-position: -130px -512px;
+}
+.iconMoon-play2 {
+	background-position: -163px -512px;
+}
+.iconMoon-pause {
+	background-position: -195px -512px;
+}
+.iconMoon-stop {
+	background-position: -227px -512px;
+}
+.iconMoon-backward {
+	background-position: -259px -512px;
+}
+.iconMoon-forward2 {
+	background-position: -291px -512px;
+}
+.iconMoon-play3 {
+	background-position: -323px -512px;
+}
+.iconMoon-pause2 {
+	background-position: -355px -512px;
+}
+.iconMoon-stop2 {
+	background-position: -389px -512px;
+}
+.iconMoon-backward2 {
+	background-position: -425px -512px;
+}
+.iconMoon-forward3 {
+	background-position: -457px -512px;
+}
+.iconMoon-first {
+	background-position: -491px -512px;
+}
+.iconMoon-last {
+	background-position: 0 -544px;
+}
+.iconMoon-previous {
+	background-position: -32px -544px;
+}
+.iconMoon-next {
+	background-position: -66px -544px;
+}
+.iconMoon-eject {
+	background-position: -98px -544px;
+}
+.iconMoon-volume-high {
+	background-position: -130px -544px;
+}
+.iconMoon-volume-medium {
+	background-position: -163px -544px;
+}
+.iconMoon-volume-low {
+	background-position: -195px -544px;
+}
+.iconMoon-volume-mute {
+	background-position: -227px -544px;
+}
+.iconMoon-volume-mute2 {
+	background-position: -259px -544px;
+}
+.iconMoon-volume-increase {
+	background-position: -291px -544px;
+}
+.iconMoon-volume-decrease {
+	background-position: -323px -544px;
+}
+.iconMoon-loop {
+	background-position: -355px -544px;
+}
+.iconMoon-loop2 {
+	background-position: -389px -544px;
+}
+.iconMoon-loop3 {
+	background-position: -425px -544px;
+}
+.iconMoon-shuffle {
+	background-position: -457px -544px;
+}
+.iconMoon-arrow-up-left {
+	background-position: -491px -544px;
+}
+.iconMoon-arrow-up {
+	background-position: 0 -576px;
+}
+.iconMoon-arrow-up-right {
+	background-position: -32px -576px;
+}
+.iconMoon-arrow-right {
+	background-position: -66px -576px;
+}
+.iconMoon-arrow-down-right {
+	background-position: -98px -576px;
+}
+.iconMoon-arrow-down {
+	background-position: -130px -576px;
+}
+.iconMoon-arrow-down-left {
+	background-position: -163px -576px;
+}
+.iconMoon-arrow-left {
+	background-position: -195px -576px;
+}
+.iconMoon-arrow-up-left2 {
+	background-position: -227px -576px;
+}
+.iconMoon-arrow-up2 {
+	background-position: -259px -576px;
+}
+.iconMoon-arrow-up-right2 {
+	background-position: -291px -576px;
+}
+.iconMoon-arrow-right2 {
+	background-position: -323px -576px;
+}
+.iconMoon-arrow-down-right2 {
+	background-position: -355px -576px;
+}
+.iconMoon-arrow-down2 {
+	background-position: -389px -576px;
+}
+.iconMoon-arrow-down-left2 {
+	background-position: -425px -576px;
+}
+.iconMoon-arrow-left2 {
+	background-position: -457px -576px;
+}
+.iconMoon-arrow-up-left3 {
+	background-position: -491px -576px;
+}
+.iconMoon-arrow-up3 {
+	background-position: 0 -608px;
+}
+.iconMoon-arrow-up-right3 {
+	background-position: -32px -608px;
+}
+.iconMoon-arrow-right3 {
+	background-position: -66px -608px;
+}
+.iconMoon-arrow-down-right3 {
+	background-position: -98px -608px;
+}
+.iconMoon-arrow-down3 {
+	background-position: -130px -608px;
+}
+.iconMoon-arrow-down-left3 {
+	background-position: -163px -608px;
+}
+.iconMoon-arrow-left3 {
+	background-position: -195px -608px;
+}
+.iconMoon-tab {
+	background-position: -227px -608px;
+}
+.iconMoon-checkbox-checked {
+	background-position: -259px -608px;
+}
+.iconMoon-checkbox-unchecked {
+	background-position: -291px -608px;
+}
+.iconMoon-checkbox-partial {
+	background-position: -323px -608px;
+}
+.iconMoon-radio-checked {
+	background-position: -355px -608px;
+}
+.iconMoon-radio-unchecked {
+	background-position: -389px -608px;
+}
+.iconMoon-crop {
+	background-position: -425px -608px;
+}
+.iconMoon-scissors {
+	background-position: -457px -608px;
+}
+.iconMoon-filter {
+	background-position: -491px -608px;
+}
+.iconMoon-filter2 {
+	background-position: 0 -640px;
+}
+.iconMoon-font {
+	background-position: -32px -640px;
+}
+.iconMoon-text-height {
+	background-position: -66px -640px;
+}
+.iconMoon-text-width {
+	background-position: -98px -640px;
+}
+.iconMoon-bold {
+	background-position: -130px -640px;
+}
+.iconMoon-underline {
+	background-position: -163px -640px;
+}
+.iconMoon-italic {
+	background-position: -195px -640px;
+}
+.iconMoon-strikethrough {
+	background-position: -227px -640px;
+}
+.iconMoon-omega {
+	background-position: -259px -640px;
+}
+.iconMoon-sigma {
+	background-position: -291px -640px;
+}
+.iconMoon-table {
+	background-position: -323px -640px;
+}
+.iconMoon-table2 {
+	background-position: -355px -640px;
+}
+.iconMoon-insert-template {
+	background-position: -389px -640px;
+}
+.iconMoon-pilcrow {
+	background-position: -425px -640px;
+}
+.iconMoon-left to right {
+	background-position: -457px -640px;
+}
+.iconMoon-right to left {
+	background-position: -491px -640px;
+}
+.iconMoon-paragraph-left {
+	background-position: 0 -672px;
+}
+.iconMoon-paragraph-center {
+	background-position: -32px -672px;
+}
+.iconMoon-paragraph-right {
+	background-position: -66px -672px;
+}
+.iconMoon-paragraph-justify {
+	background-position: -98px -672px;
+}
+.iconMoon-paragraph-left2 {
+	background-position: -130px -672px;
+}
+.iconMoon-paragraph-center2 {
+	background-position: -163px -672px;
+}
+.iconMoon-paragraph-right2 {
+	background-position: -195px -672px;
+}
+.iconMoon-paragraph-justify2 {
+	background-position: -227px -672px;
+}
+.iconMoon-indent-increase {
+	background-position: -259px -672px;
+}
+.iconMoon-indent-decrease {
+	background-position: -291px -672px;
+}
+.iconMoon-new tab {
+	background-position: -323px -672px;
+}
+.iconMoon-embed {
+	background-position: -355px -672px;
+}
+.iconMoon-code {
+	background-position: -389px -672px;
+}
+.iconMoon-console {
+	background-position: -425px -672px;
+}
+.iconMoon-share {
+	background-position: -457px -672px;
+}
+.iconMoon-mail {
+	background-position: -491px -672px;
+}
+.iconMoon-mail2 {
+	background-position: 0 -704px;
+}
+.iconMoon-mail3 {
+	background-position: -32px -704px;
+}
+.iconMoon-mail4 {
+	background-position: -66px -704px;
+}
+.iconMoon-google {
+	background-position: -98px -704px;
+}
+.iconMoon-google plus {
+	background-position: -130px -704px;
+}
+.iconMoon-google plus2 {
+	background-position: -163px -704px;
+}
+.iconMoon-google plus3 {
+	background-position: -195px -704px;
+}
+.iconMoon-google plus4 {
+	background-position: -227px -704px;
+}
+.iconMoon-google-drive {
+	background-position: -259px -704px;
+}
+.iconMoon-facebook {
+	background-position: -291px -704px;
+}
+.iconMoon-facebook2 {
+	background-position: -323px -704px;
+}
+.iconMoon-facebook3 {
+	background-position: -355px -704px;
+}
+.iconMoon-instagram {
+	background-position: -389px -704px;
+}
+.iconMoon-twitter {
+	background-position: -425px -704px;
+}
+.iconMoon-twitter2 {
+	background-position: -457px -704px;
+}
+.iconMoon-twitter3 {
+	background-position: -491px -704px;
+}
+.iconMoon-feed2 {
+	background-position: 0 -736px;
+}
+.iconMoon-feed3 {
+	background-position: -32px -736px;
+}
+.iconMoon-feed4 {
+	background-position: -66px -736px;
+}
+.iconMoon-youtube {
+	background-position: -98px -736px;
+}
+.iconMoon-youtube2 {
+	background-position: -130px -736px;
+}
+.iconMoon-vimeo {
+	background-position: -163px -736px;
+}
+.iconMoon-vimeo2 {
+	background-position: -195px -736px;
+}
+.iconMoon-vimeo3 {
+	background-position: -227px -736px;
+}
+.iconMoon-lanyrd {
+	background-position: -259px -736px;
+}
+.iconMoon-flickr {
+	background-position: -291px -736px;
+}
+.iconMoon-flickr2 {
+	background-position: -323px -736px;
+}
+.iconMoon-flickr3 {
+	background-position: -355px -736px;
+}
+.iconMoon-flickr4 {
+	background-position: -389px -736px;
+}
+.iconMoon-picassa {
+	background-position: -425px -736px;
+}
+.iconMoon-picassa2 {
+	background-position: -457px -736px;
+}
+.iconMoon-dribbble {
+	background-position: -491px -736px;
+}
+.iconMoon-dribbble2 {
+	background-position: 0 -768px;
+}
+.iconMoon-dribbble3 {
+	background-position: -32px -768px;
+}
+.iconMoon-forrst {
+	background-position: -66px -768px;
+}
+.iconMoon-forrst2 {
+	background-position: -98px -768px;
+}
+.iconMoon-deviantart {
+	background-position: -130px -768px;
+}
+.iconMoon-deviantart2 {
+	background-position: -163px -768px;
+}
+.iconMoon-steam {
+	background-position: -195px -768px;
+}
+.iconMoon-steam2 {
+	background-position: -227px -768px;
+}
+.iconMoon-github {
+	background-position: -259px -768px;
+}
+.iconMoon-github2 {
+	background-position: -291px -768px;
+}
+.iconMoon-github3 {
+	background-position: -323px -768px;
+}
+.iconMoon-github4 {
+	background-position: -355px -768px;
+}
+.iconMoon-github5 {
+	background-position: -389px -768px;
+}
+.iconMoon-wordpress {
+	background-position: -425px -768px;
+}
+.iconMoon-wordpress2 {
+	background-position: -457px -768px;
+}
+.iconMoon-joomla {
+	background-position: -491px -768px;
+}
+.iconMoon-blogger {
+	background-position: 0 -800px;
+}
+.iconMoon-blogger2 {
+	background-position: -32px -800px;
+}
+.iconMoon-tumblr {
+	background-position: -66px -800px;
+}
+.iconMoon-tumblr2 {
+	background-position: -98px -800px;
+}
+.iconMoon-yahoo {
+	background-position: -130px -800px;
+}
+.iconMoon-tux {
+	background-position: -163px -800px;
+}
+.iconMoon-apple {
+	background-position: -195px -800px;
+}
+.iconMoon-finder {
+	background-position: -227px -800px;
+}
+.iconMoon-android {
+	background-position: -259px -800px;
+}
+.iconMoon-windows {
+	background-position: -291px -800px;
+}
+.iconMoon-windows8 {
+	background-position: -323px -800px;
+}
+.iconMoon-soundcloud {
+	background-position: -355px -800px;
+}
+.iconMoon-soundcloud2 {
+	background-position: -389px -800px;
+}
+.iconMoon-skype {
+	background-position: -425px -800px;
+}
+.iconMoon-reddit {
+	background-position: -457px -800px;
+}
+.iconMoon-linkedin {
+	background-position: -491px -800px;
+}
+.iconMoon-lastfm {
+	background-position: 0 -832px;
+}
+.iconMoon-lastfm2 {
+	background-position: -32px -832px;
+}
+.iconMoon-delicious {
+	background-position: -66px -832px;
+}
+.iconMoon-stumbleupon {
+	background-position: -98px -832px;
+}
+.iconMoon-stumbleupon2 {
+	background-position: -130px -832px;
+}
+.iconMoon-stackoverflow {
+	background-position: -163px -832px;
+}
+.iconMoon-pinterest {
+	background-position: -195px -832px;
+}
+.iconMoon-pinterest2 {
+	background-position: -227px -832px;
+}
+.iconMoon-xing {
+	background-position: -259px -832px;
+}
+.iconMoon-xing2 {
+	background-position: -291px -832px;
+}
+.iconMoon-flattr {
+	background-position: -323px -832px;
+}
+.iconMoon-foursquare {
+	background-position: -355px -832px;
+}
+.iconMoon-foursquare2 {
+	background-position: -389px -832px;
+}
+.iconMoon-paypal {
+	background-position: -425px -832px;
+}
+.iconMoon-paypal2 {
+	background-position: -457px -832px;
+}
+.iconMoon-paypal3 {
+	background-position: -491px -832px;
+}
+.iconMoon-yelp {
+	background-position: 0 -864px;
+}
+.iconMoon-libreoffice {
+	background-position: -32px -864px;
+}
+.iconMoon-file-pdf {
+	background-position: -66px -864px;
+}
+.iconMoon-file-openoffice {
+	background-position: -98px -864px;
+}
+.iconMoon-file-word {
+	background-position: -130px -864px;
+}
+.iconMoon-file-excel {
+	background-position: -163px -864px;
+}
+.iconMoon-file-zip {
+	background-position: -195px -864px;
+}
+.iconMoon-file-powerpoint {
+	background-position: -227px -864px;
+}
+.iconMoon-file-xml {
+	background-position: -259px -864px;
+}
+.iconMoon-file-css {
+	background-position: -291px -864px;
+}
+.iconMoon-html5 {
+	background-position: -323px -864px;
+}
+.iconMoon-html52 {
+	background-position: -355px -864px;
+}
+.iconMoon-css3 {
+	background-position: -389px -864px;
+}
+.iconMoon-chrome {
+	background-position: -425px -864px;
+}
+.iconMoon-firefox {
+	background-position: -457px -864px;
+}
+.iconMoon-IE {
+	background-position: -491px -864px;
+}
+.iconMoon-opera {
+	background-position: 0 -896px;
+}
+.iconMoon-safari {
+	background-position: -32px -896px;
+}
+.iconMoon-IcoMoon {
+	background-position: -66px -896px;
+}
