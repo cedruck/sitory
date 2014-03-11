@@ -9,6 +9,6 @@ body>.container {
 	height:214px;
 }
 
-.navbar-nav {
+.navbar-nav, .uppercase {
 	text-transform:uppercase;
 }
