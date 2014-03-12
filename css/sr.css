@@ -17,3 +17,15 @@ body>.container {
 	height:330px;
 	overflow-y:hidden;
 }
+
+.articles article h4 {
+	background-color:#f35a20;
+	color:#ffffff;
+	padding:4px;
+	font-size:1.1em;
+	display:inline-block;
+}
+
+.articles article .badge {
+	background-color:#f35a20;
+}
