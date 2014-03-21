@@ -27,15 +27,16 @@ footer > div > div > div:last-child {
 	padding-right:70px;
 }
 
-footer > div > div > div:last-child > div  > div{
+.partenaires {
+	margin-left:-5px;
+}
+
+.partenaires  > div {
 	padding-right:0px;
 	padding-left:5px;
 }
-footer > div > div > div:last-child > div  > div:first-child {
-	margin-left:10px;
-}
 
-footer > div > div > div:last-child img{
+.partenaires  > div img {
 	width:100%;
 }
 
