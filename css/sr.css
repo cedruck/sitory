@@ -1,5 +1,7 @@
-@font-face { font-family: "Quicksandlight"; 	src: url('../fonts/quicksandlight.eot') !important; }
-@font-face { font-family: "Quicksandlight"; 	src: url('../fonts/quicksandlight.ttf'); }
+@font-face {
+	font-family: "Quicksandlight"; 
+	src: url('../fonts/quicksandlight.eot?') format('eot'), url('../fonts/quicksandlight.ttf') format('truetype');
+}
 
 
 body {
