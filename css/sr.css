@@ -1,3 +1,12 @@
+@font-face { font-family: "Quicksandlight"; 	src: url('../fonts/quicksandlight.eot') !important; }
+@font-face { font-family: "Quicksandlight"; 	src: url('../fonts/quicksandlight.ttf'); }
+
+
+body {
+	font-family: Garamond;
+	font-size:15px;
+}
+
 body>.container {
 	width:1280px;
 	font-size:0.9em;
@@ -21,6 +30,7 @@ footer .white, footer .white a {
 footer h4 {
 	text-transform:uppercase;
 	margin-bottom:5px;
+	font-family:Quicksandlight;
 }
 
 footer > div > div > div:last-child {
@@ -41,6 +51,7 @@ footer > div > div > div:last-child {
 }
 
 .navbar-nav, .uppercase {
+	font-family:Quicksandlight;
 	text-transform:uppercase;
 }
 
@@ -64,6 +75,7 @@ footer > div > div > div:last-child {
 }
 
 .articles article h4 {
+	font-family:Quicksandlight;
 	padding:4px;
 	font-size:1.1em;
 	display:inline-block;
