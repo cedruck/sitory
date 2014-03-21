@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Quicksandlight"; 
-	src: url('../fonts/quicksandlight.eot?') format('eot'), url('../fonts/quicksandlight.ttf') format('truetype');
+	src: url('../fonts/quicksandlight.eot?') format('eot'), url('../fonts/quicksandlight.otf') format('opentype'), url('../fonts/quicksandlight.ttf') format('truetype');
 }
 
 
