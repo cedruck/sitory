@@ -58,14 +58,17 @@ footer > div > div > div:last-child {
 	overflow-y:hidden;
 }
 
-.articles article h4 {
+.articles article h4, .orange {
 	background-color:#f35a20;
 	color:#ffffff;
+}
+
+.articles article h4 {
 	padding:4px;
 	font-size:1.1em;
 	display:inline-block;
 }
 
-.articles article .badge {
+.badge {
 	background-color:#f35a20;
 }
